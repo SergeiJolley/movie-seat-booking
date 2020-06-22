@@ -1,4 +1,4 @@
-https://sergeijolley.github.io/movie-seat-booking/. 
+https://sergeijolley.github.io/movie-seat-booking/ 
 
 ## Movie Seat Booking
 
